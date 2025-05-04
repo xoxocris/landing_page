@@ -1,1 +1,1 @@
-# landing_page
+In this project I will be attempting to make a landing page and hopefully to be mobile friendly as well.
